@@ -16,3 +16,19 @@
 1734015189015: /search?search_query=javascript&name=harsh New req received 
 1734015275982: /search?search_query=javascript&name=harsh New req received 
 1734021906761: GET / New req received 
+
+ 1734162376498:::1 GET: /api/users/ 
+
+ 1734162541523:::1 GET: /api/users/ 
+
+ 1734162822569:::1 GET: /users 
+
+ 1734162829990:::1 GET: /api/users 
+
+ 1734162900271:::1 GET: /api/users/ 
+
+ 1734163161907:::1 GET: /api/users/ 
+
+ 1734163205711:::1 POST: /api/users 
+
+ 1734163258623:::1 PATCH: /api/users/675d3b05835a93998b94bd66 
